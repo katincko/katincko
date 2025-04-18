@@ -38,4 +38,4 @@
 
 ---
 
-🧠 Sempre aprendendo, sempre evoluindo. Vamo pra cima!  
+🧠 Sempre aprendendo, sempre evoluindo!  
