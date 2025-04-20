@@ -24,10 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 ---
@@ -37,12 +34,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=katincko&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=katincko&theme=shadow_blue&hide_border=false" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katincko&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+
 
 
 
