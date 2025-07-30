@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Katincko 👋</h1>
 
 <p align="center">
-💻 Front-End Developer passionate about building modern, accessible, and responsive web applications.<br>
+💻 Full-Stack Developer passionate about building modern, accessible, and responsive web applications.<br>
 🚀 Focused on turning ideas into real, functional products through clean and maintainable code.<br>
 📚 Constantly learning and improving skills in both front-end technologies and software development best practices.<br>
 🤝 Open to professional opportunities, collaboration, and networking within the tech community.
