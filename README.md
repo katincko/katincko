@@ -1,38 +1,11 @@
 <h1 align="center">Hi, I'm Katincko 👋</h1>
 
 <p align="center">
-💻 Full-Stack Developer passionate about building modern, accessible, and responsive web applications.<br>
-🚀 Focused on turning ideas into real, functional products through clean and maintainable code.<br>
-📚 Constantly learning and improving skills in both front-end technologies and software development best practices.<br>
-🤝 Open to professional opportunities, collaboration, and networking within the tech community.
+  💻 Full-Stack Automation Developer @ <strong>Dealer Intelligence</strong><br>
+  ⚙️ Specialized in AI with <strong>n8n</strong> and web development with <strong>React</strong><br>
+  🚀 Passionate about turning ideas into functional products through clean and scalable code<br>
+  🤝 Open to collaborations, networking and new opportunities in the tech space
 </p>
-
----
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katincko&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katincko&theme=shadow_blue&hide_border=false&layout=compact" />
-</p>
-
----
-
-## 📫 Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/joaquim-alx">
@@ -40,7 +13,7 @@
   </a>
   <a href="https://youtube.com/@katincko">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
-  </a>
+  </a> 
   <a href="mailto:katincko@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
@@ -48,6 +21,38 @@
 
 ---
 
-<!-- Inspired by GPRM: https://gprm.itsvg.in -->
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,tailwind,docker&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats-phi-ebon-87.vercel.app/api?username=katincko&theme=shadow_blue&hide_border=true&show_icons=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide_rank=true&hide=contribs&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats-phi-ebon-87.vercel.app/api/top-langs/?username=katincko&theme=shadow_blue&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
+</p>
+
+
+---
+
+## 🚀 What I'm working on
+
+- 🏢 Full-Stack Automation Developer at **Dealer Intelligence**
+- ⚙️ Building automations and integrations with **n8n**
+- ⚛️ Developing modern interfaces with **React + TypeScript**
+- 📦 Integrating REST APIs and data pipelines
+
+---
 
 📌 *"Code is not just about syntax — it's about solving problems and creating impact."*
