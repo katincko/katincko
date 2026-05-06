@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Full-Stack Automation Developer @ <strong>Dealer Intelligence</strong><br>
-  ⚙️ Specialized in AI with <strong>n8n</strong> and web development with <strong>React</strong><br>
+  ⚙️ Specialized in AI with <strong>python</strong> and full-stack development with <strong>React + node</strong><br>
   🚀 Passionate about turning ideas into functional products through clean and scalable code<br>
   🤝 Open to collaborations, networking and new opportunities in the tech space
 </p>
@@ -46,7 +46,7 @@
 ## 🚀 What I'm working on
 
 - 🏢 Full-Stack Automation Developer at **Dealer Intelligence**
-- ⚙️ Building automations and integrations with **n8n**
+- ⚙️ Building automations and integrations with **python & n8n**
 - ⚛️ Developing modern interfaces with **React + TypeScript**
 - 📦 Integrating REST APIs and data pipelines
 
