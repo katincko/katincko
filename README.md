@@ -36,7 +36,7 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats-phi-ebon-87.vercel.app/api?username=katincko&theme=shadow_blue&hide_border=true&show_icons=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide_rank=true&hide=contribs&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats-phi-ebon-87.vercel.app/api/top-langs/?username=katincko&theme=shadow_blue&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats-phi-ebon-87.vercel.app/api/top-langs/?username=katincko&theme=shadow_blue&hide_border=true&layout=compact&langs_count=6&hide=html,css&cache_seconds=1800" />
 </p>
 
 
