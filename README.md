@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,docker,kali,react,redis&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,docker,kali,react,vue,redis&theme=dark" />
   </a>
 </p>
 
@@ -63,7 +63,7 @@ language. Daily analytical reports, no dashboards needed.
 The dealership CRM. WhatsApp, email, Instagram, web widget. **I led it** and built the Kanban
 lead funnel and the scheduling module.
 
-`Rails` `Vue` `PostgreSQL` `Sidekiq` `Docker Swarm`
+`Vue` `PostgreSQL` `Sidekiq` `Docker Swarm`
 
 </td>
 </tr>
