@@ -44,7 +44,7 @@
 
 ## 🚀 What I'm working on
 
-- 🏢 Full-Stack Developer & Tech Lead at **Dealer Intelligence**, leading 3 devs
+- 🏢 Full-Stack Developer & Tech Lead at **Dealer Intelligence**, leading 4 devs
 - ⚙️ Building automations and integrations with **python & Devops**
 - ⚛️ in-house applications **React + node**
 - 📦 Makin REST APIs and data pipelines
